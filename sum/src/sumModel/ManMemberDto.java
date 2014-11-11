@@ -1,4 +1,4 @@
-package sum;
+package sumModel;
 
 public class ManMemberDto {
 
