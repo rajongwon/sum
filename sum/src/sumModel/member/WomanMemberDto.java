@@ -1,4 +1,4 @@
-package sumModel;
+package sumModel.member;
 
 public class WomanMemberDto {
 
