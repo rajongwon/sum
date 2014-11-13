@@ -4,7 +4,7 @@ public class WomanTypeInfoDto { //여자이상형정보
 	private String w_id; //여자아이디
 	private String w_type_job; //여자이상형직업
 	private int w_type_height; //여자이상형키
-	private String interest; //여자이상형관심사
+	private String w_type_interest; //여자이상형관심사
 	private int w_type_weight; //여자이상형몸무게
 	private String w_type_eye; //여자이상형눈
 	private String w_type_nose; //여자이상형코
@@ -29,11 +29,11 @@ public class WomanTypeInfoDto { //여자이상형정보
 	public void setW_type_height(int w_type_height) {
 		this.w_type_height = w_type_height;
 	}
-	public String getInterest() {
-		return interest;
+	public String getW_type_interest() {
+		return w_type_interest;
 	}
-	public void setInterest(String interest) {
-		this.interest = interest;
+	public void setW_type_interest(String w_type_interest) {
+		this.w_type_interest = w_type_interest;
 	}
 	public int getW_type_weight() {
 		return w_type_weight;
